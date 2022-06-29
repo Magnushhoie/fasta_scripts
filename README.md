@@ -11,5 +11,6 @@ src/split_fasta.py --fasta data/sequences.fasta
 
 Requirements:
 ```bash
-biopython
+# Install biopython
+pip install -r requirements.txt
 ```
